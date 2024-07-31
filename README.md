@@ -80,9 +80,6 @@ This web application helps patients with chronic autoimmune and invisible illnes
     - `bootstrap/`: Bootstrap CSS and JS files.
   - `config.py`: Configuration settings for the app.
   - `database.db`: SQLite database file.
-  - `tests/`: Test cases for the app.
-    - `test_models.py`: Tests for database models.
-    - `test_routes.py`: Tests for routes.
   - `README.md`: Project documentation.
 
 ## Contributing
